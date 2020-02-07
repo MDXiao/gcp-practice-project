@@ -1,0 +1,29 @@
+﻿* Colorado economy or housing in the past few months
+   * Predictions on what would happen in the future based on past data
+   * Data
+
+
+* Yelp review data + pictures!
+   * Natural language processing
+   * We have called API
+
+
+* Global Health (Google BigQuery)
+   * Contributors to the Wuhan virus (education, reproductive health, nutrition)
+
+
+* Census Bureau (Google BigQuery)
+   * Geographical and cartographical data
+   * Effect on U.S. election?
+
+
+* Census data
+   * Predict probability of making X amount of dollars per year based on census data
+
+
+* MovieLens
+   * Come up with movie recommendations based on user form?
+
+
+Slightly harder topics:
+* Anything with image processing really
